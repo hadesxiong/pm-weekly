@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "pm-weekly",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -11,5 +11,8 @@
   },
   "dependencies": {
     "astro": "^2.6.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
   }
 }
