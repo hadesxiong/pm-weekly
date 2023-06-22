@@ -3,8 +3,8 @@ import HeadCommon from '../components/HeadCommon.astro';
 import HeadSEO from '../components/HeadSEO.astro';
 import Card from '../components/Card/Card.astro';
 import Header from '../components/Header/Header.astro';
-// import { SITE } from 'src/config';
-import { SITE } from '../config'
+import { SITE } from 'src/config';
+
 let allPosts = await Astro.glob('./posts/*.md');
 allPosts = allPosts.sort((a, b) => {
   return (
@@ -21,6 +21,7 @@ const content = {};
     <HeadCommon />
     <HeadSEO canonicalURL={SITE.url} content={content} />
     <title>潮流周刊</title>
+    <link rel="stylesheet" href="/src/styles/index.css">
   </head>
 
   <body>

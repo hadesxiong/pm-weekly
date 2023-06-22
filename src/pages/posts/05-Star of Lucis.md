@@ -1,3 +1,11 @@
+---
+layout: ../../layouts/post.astro
+title: Astro 简介
+author: Himanshu
+desc: 发现 Astro 的魅力所在！
+pic: https://pmfeeds.bearman.xyz/weekly/05/05-cover.jpg
+--- 
+
 <img src="https://pmfeeds.bearman.xyz/weekly/05/05-cover.jpg" width="900"/>  
 
 <small>图片是R8的限定版Star of Lucis，Dream Car!</small>
