@@ -14,7 +14,7 @@ export const get = () =>
     title: '--',
     description: '--',
     site: '',
-    // customData: `<image><url>https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png</url></image>`,
+    customData: `<image><url>https://pmfeeds.bearman.xyz/weekly/noodles.png</url></image>`,
     items: posts.map((item) => {
       const url = item.url;
       const oldTitle = url.split('/posts/')[1];
