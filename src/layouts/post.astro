@@ -29,7 +29,7 @@ const content = {
     <HeadCommon />
     <HeadSEO content={content} canonicalURL={currentPage} />
     <meta name="generator" content={Astro.generator} /><title>
-      潮流周刊{title}
+      PM-Weekly{title}
     </title>
 
     <style>
@@ -139,6 +139,9 @@ const content = {
         .heti h1.content-title:first-child {
           margin-bottom: 12px;
         }
+        .heti strong {
+          font-weight: 700;
+        }
       }
     </style>
     <style is:global>
@@ -154,6 +157,12 @@ const content = {
       .mobile-sidebar-toggle #grid-left {
         display: block;
         top: 2rem;
+      }
+      p>a {
+        color: #1d9bf0;
+      }
+      h2 {
+        font-weight: bolder !important;
       }
     </style>
   </head>
@@ -175,7 +184,7 @@ const content = {
           <hr />
           <p class="mt-10 text-black">发布日期：{date}</p>
         </div>
-        <script
+        <!-- <script
           src="https://giscus.app/client.js"
           data-repo="tw93/weekly"
           data-repo-id="R_kgDOG4TsQA"
@@ -191,7 +200,7 @@ const content = {
           data-loading="lazy"
           crossorigin="anonymous"
           async
-        ></script>
+        ></script> -->
       </div>
     </main>
   </body>
