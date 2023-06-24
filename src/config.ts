@@ -3,7 +3,7 @@ export const SITE = {
     description: '摘录产品经理Bearman看到的有趣的内容，每周一发布',
     pic: '',
     iconPic: 'https://pmfeeds.bearman.xyz/weekly/noodles.png',
-    url: ''
+    url: 'https://pm.bearman.xyz'
   };
   
 export const OPEN_GRAPH = {
