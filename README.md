@@ -1,10 +1,10 @@
 # PM-Weekly
 
 > 🍜 摘录产品经理Bearman看到的有趣的内容，每周一发布、
->> 👏 感谢工程师tw93，该项目基于https://github.com/tw93/weekly获得灵感
+>> 👏 感谢工程师tw93，该项目基于 https://github.com/tw93/weekly 获得灵感
 
 
-* [第 05 期 - Star of Lucis](https://host/posts/05-Star%20of%20Lucis)
+* [第 05 期 - Star of Lucis](https://host/posts/05-Star%20of%20Lucis)git 
 * [第 04 期 - 贯穿骑士](https://host/posts/04-贯穿骑士)
 * [第 03 期 - 光](https://host/posts/03-光)
 * [第 02 期 - 猛男色](https://host/posts/02-猛男色)
