@@ -187,7 +187,7 @@ const content = {
           <hr />
           <div style="display:flex;justify-content:space-between;padding-bottom:2rem;">
             <p class="mt-10 text-black">发布日期：<a class="footer_a">{date}</a></p>
-            <p>
+            <p style="text-align:right">
               {next_page && <span style="color:#a67c52 !important"><a class="footer_a" href={`/posts/${next_page}`}>下一篇</a> | </span>}
               {last_page && <span style="color:#a67c52 !important"><a class="footer_a" href={`/posts/${last_page}`}>上一篇</a> | </span>}
               <span style="color:#a67c52 !important"><a class="footer_a" href="/">去首页</a> | </span>
