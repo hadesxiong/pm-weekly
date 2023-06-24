@@ -1,10 +1,11 @@
 ---
 layout: ../../layouts/post.astro
-title: Astro 简介
-author: Himanshu
 desc: 图片是R8的限定版Star of Lucis，Dream Car!   
 pic: https://pmfeeds.bearman.xyz/weekly/05/05-cover.jpg
-date: 2023/06/01
+date: 2023/06/19
+next_page: false
+last_page: 04-贯穿骑士
+title: 05-Star of Lucis
 ---
 <img src="https://pmfeeds.bearman.xyz/weekly/05/05-cover.jpg" width="900"/>
 

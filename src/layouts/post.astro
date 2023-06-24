@@ -15,7 +15,7 @@ if (title.slice(-1) == '/') {
   title = title.substring(0, title.length - 1);
 }
 
-const { date, pic, desc } = Astro.props.frontmatter;
+const { date, pic, desc, next_page, last_page } = Astro.props.frontmatter;
 
 const content = {
   title,
@@ -164,6 +164,9 @@ const content = {
       h2 {
         font-weight: bolder !important;
       }
+      .footer_a {
+          color:#a67c52;
+      }
     </style>
   </head>
   <body>
@@ -182,14 +185,21 @@ const content = {
           </h1>
           <slot />
           <hr />
-          <p class="mt-10 text-black">发布日期：{date}</p>
+          <div style="display:flex;justify-content:space-between;padding-bottom:2rem;">
+            <p class="mt-10 text-black">发布日期：<a class="footer_a">{date}</a></p>
+            <p>
+              {next_page && <span style="color:#a67c52"><a href={next_page}>下一篇</a> | </span>}
+              {last_page && <span style="color:#a67c52"><a href={last_page}>上一篇</a> | </span>}
+              <a class="footer_a" href="">去首页</a>
+            </p>
+          </div>
         </div>
         <script src="https://giscus.app/client.js"
           data-repo="hadesxiong/pm-weekly"
           data-repo-id="R_kgDOJlkjEQ"
           data-category="General"
           data-category-id="DIC_kwDOJlkjEc4CXaWb"
-          data-mapping="pathname"
+          data-mapping="title"
           data-strict="0"
           data-reactions-enabled="1"
           data-emit-metadata="0"
