@@ -3,7 +3,7 @@ layout: ../../layouts/post.astro
 desc: 图片是R8的限定版Star of Lucis，Dream Car!   
 pic: https://pmfeeds.bearman.xyz/weekly/05/05-cover.jpg
 date: 2023/06/19
-next_page: false
+next_page: 06-躺平
 last_page: 04-贯穿骑士
 title: 05-Star of Lucis
 ---
