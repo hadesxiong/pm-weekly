@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/post.astro
 desc: 图片是R8的限定版Star of Lucis，Dream Car!   
-pic: https://pmfeeds.bearman.xyz/weekly/05/05-cover.jpg
+pic: https://pmfeeds.bearman.xyz/weekly/05/05-cover.jpg?imageView2/0/format/webp/interlace/1/q/75
 date: 2023/06/19
 next_page: 06-躺平
 last_page: 04-贯穿骑士
 title: 05-Star of Lucis
 ---
-<img src="https://pmfeeds.bearman.xyz/weekly/05/05-cover.jpg" width="900"/>
+<img src="https://pmfeeds.bearman.xyz/weekly/05/05-cover.jpg?imageView2/0/format/webp/interlace/1/q/75" width="900"/>
 
 <small>图片是R8的限定版Star of Lucis，Dream Car!</small>
 
@@ -35,7 +35,7 @@ WOM 是许多企业梦寐以求的增长引擎，涉及用户通过各种方式�
 
 做设计都值得一看，能更好地理解苹果为什么要这么做，这么做对人机交互有什么影响（里面的有些翻译貌似不这么优雅）。
 
-<img src="https://pmfeeds.bearman.xyz/weekly/05/05-design-1-apple.png" width="900"/>
+<img src="https://pmfeeds.bearman.xyz/weekly/05/05-design-1-apple.png?imageView2/0/format/webp/interlace/1/q/75" width="900"/>
 
 **2.寻路元宇宙，淘宝设计师的新体验探索**
 
@@ -43,7 +43,7 @@ WOM 是许多企业梦寐以求的增长引擎，涉及用户通过各种方式�
 
 本篇以“TAOLIVE-CITY未来城”为例，为大家系统介绍淘宝设计师如何构建消费元宇宙，走进实战中的元宇宙机制、空间、界面设计。
 
-<img src="https://pmfeeds.bearman.xyz/weekly/05/05-design-2-taobao.png" width="900"/>
+<img src="https://pmfeeds.bearman.xyz/weekly/05/05-design-2-taobao.png?imageView2/0/format/webp/interlace/1/q/75" width="900"/>
 
 **3.Vision Pro 的 8 年历程：只有苹果才能这样造产品**
 
@@ -51,7 +51,7 @@ WOM 是许多企业梦寐以求的增长引擎，涉及用户通过各种方式�
 
 Vision Pro 是一个极端依赖技术和供应链积累的勇敢尝试，在目前只可能来自苹果。2000 多名苹果设计师、工程师带着几万名遍布中美日的供应商研发生产人员，花去 8 年人生和数十亿美元。这一切，只是为了让消费者在家虚拟一块 150 寸屏幕看电影、玩游戏，或者在办公室投出 3 个应用处理工作。
 
-<img src="https://pmfeeds.bearman.xyz/weekly/05/05-design-3-vp.png" width="900"/>
+<img src="https://pmfeeds.bearman.xyz/weekly/05/05-design-3-vp.png?imageView2/0/format/webp/interlace/1/q/75" width="900"/>
 
 ## 技术前沿
 
@@ -81,7 +81,7 @@ Vision Pro 是一个极端依赖技术和供应链积累的勇敢尝试，在目
 
 Apple carplay mockup 但是是 sketch 版本。
 
-<img src="https://pmfeeds.bearman.xyz/weekly/05/05-tools-1-carplay.png" width="900"/>
+<img src="https://pmfeeds.bearman.xyz/weekly/05/05-tools-1-carplay.png?imageView2/0/format/webp/interlace/1/q/75" width="900"/>
 
 **2.Apple Vision Pro Animated Illustration**
 
@@ -89,4 +89,4 @@ Apple carplay mockup 但是是 sketch 版本。
 
 用 figma 绘制的 Apple Vision Pro 文件分享，还详细分享了教程。
 
-<img src="https://pmfeeds.bearman.xyz/weekly/05/05-tools-2-vp.png" width="900"/>
+<img src="https://pmfeeds.bearman.xyz/weekly/05/05-tools-2-vp.png?imageView2/0/format/webp/interlace/1/q/75" width="900"/>
