@@ -106,8 +106,10 @@ python、sql什么的就算了，把CSS好好学学倒是真的，我最近听�
 
 在 Github 上面看到一个智能的通用数据库 SQL 客户端和报表工具「Chat2DB」，之前我们在内部也有一些类似的实践，用于解决非专业同学写 SQL 跑数据的问题，这个思路挺好的，有兴趣可以玩玩看。  
 
-**3.科技品牌 Logo 下载**
-[https://figma.com/community/file/1246098308176329289/](https://figma.com/community/file/1246098308176329289/)  
+**3.科技品牌 Logo 下载**  
+
+[https://figma.com/community/file/1246098308176329289/](https://figma.com/community/file/1246098308176329289/)   
+
 从 Figma 看到一个科技品牌 Logo 下载，有 200 多个常见的整理，可以直接二次编辑使用，对于不少需要放品牌 Logo 的场景很有用处。  
 
 <img src="https://pmfeeds.bearman.xyz/weekly/09/09-tools-3-figma.png?imageView2/0/format/webp/interlace/1/q/75" width="900"/>  
