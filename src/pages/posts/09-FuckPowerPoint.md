@@ -5,7 +5,7 @@ pic: https://pmfeeds.bearman.xyz/weekly/08/09-cover.webp?imageView2/0/format/web
 date: 2023/07/10
 next_page: False
 last_page: 08-
-title: 09-F*#K,PowerPoint
+title: 09-FuckPowerPoint
 ---
 <img src="https://pmfeeds.bearman.xyz/weekly/08/09-cover.webp?imageView2/0/format/webp/interlace/1/q/75" width="900"/>
 
