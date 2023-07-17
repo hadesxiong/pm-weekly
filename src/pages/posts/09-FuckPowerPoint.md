@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/post.astro
 desc: 又到了半年度了，茫茫多的材料压过来了，感觉已经可以转职成为一名秘书兼电报员了，*#的%$%!^^@!    
-pic: https://pmfeeds.bearman.xyz/weekly/08/09-cover.webp?imageView2/0/format/webp/interlace/1/q/75
+pic: https://pmfeeds.bearman.xyz/weekly/09/09-cover.webp?imageView2/0/format/webp/interlace/1/q/75
 date: 2023/07/10
 next_page: False
 last_page: 08-
 title: 09-FuckPowerPoint
 ---
-<img src="https://pmfeeds.bearman.xyz/weekly/08/09-cover.webp?imageView2/0/format/webp/interlace/1/q/75" width="900"/>
+<img src="https://pmfeeds.bearman.xyz/weekly/09/09-cover.webp?imageView2/0/format/webp/interlace/1/q/75" width="900"/>
 
 <small>又到了半年度了，茫茫多的材料压过来了，感觉已经可以转职成为一名秘书了。*#的%$%!^^@!</small> 
 
@@ -77,7 +77,7 @@ python、sql什么的就算了，把CSS好好学学倒是真的，我最近听�
 
 [https://jakearchibald.com/2023/against-self-closing-tags-in-html/](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 
-你平时是怎么写的 <input type="text" /> 还是 <img src="…" />。。    
+你平时是怎么写的`<input type="text" />`还是`<img src="…" />`。    
 
 **3.为什么 Netflix 对 GraphQL 押注**  
 
