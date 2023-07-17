@@ -2,7 +2,7 @@
 layout: ../../layouts/post.astro
 desc: 又到了半年度了，茫茫多的材料压过来了，感觉已经可以转职成为一名秘书兼电报员了，*#的%$%!^^@!    
 pic: https://pmfeeds.bearman.xyz/weekly/09/09-cover.webp?imageView2/0/format/webp/interlace/1/q/75
-date: 2023/07/10
+date: 2023/07/17
 next_page: False
 last_page: 08-斑驳陆离
 title: 09-FuckPowerPoint
