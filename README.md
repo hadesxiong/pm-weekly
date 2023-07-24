@@ -3,6 +3,7 @@
 > 🍜 摘录产品经理Bearman看到的有趣的内容，每周一发布、
 >> 👏 感谢工程师tw93，该项目基于 https://github.com/tw93/weekly 获得灵感
 
+* [第 10 期 - 落日晚霞](https://pm.bearman.xyz/posts/10-落日晚霞)
 * [第 09 期 - FuckPowerPoint](https://pm.bearman.xyz/posts/09-FuckPowerPoint)
 * [第 08 期 - 斑驳陆离](https://pm.bearman.xyz/posts/08-斑驳陆离)
 * [第 07 期 - 星空](https://pm.bearman.xyz/posts/07-星空)
